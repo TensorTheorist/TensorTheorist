@@ -13,8 +13,8 @@ I love implementing ML and AI functionalities and algorithms and deploying them 
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Implementing and deploying ML functionality and extending AI metaheuristic algorithms at [Optessa](https://www.optessa.com) for the future of Supply Chain Planning and Sequencing.
+- Projects for self-learning ML/AI algorithms and related software development.
 
 ### 🌱 I’m learning
 
@@ -33,6 +33,4 @@ I love implementing ML and AI functionalities and algorithms and deploying them 
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
-
-### ⚡ Fun fact
 

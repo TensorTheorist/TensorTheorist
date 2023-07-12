@@ -20,6 +20,7 @@ I love implementing ML and AI functionalities and algorithms and deploying them 
 
 <div display="flex">
   <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="MLFlow"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="ApacheAirflow"/>
 </div>
 
 ### 📫 How to reach me

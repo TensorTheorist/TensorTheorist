@@ -8,6 +8,7 @@ I love implementing ML and AI functionalities and algorithms and deploying them 
 
 <div display="flex">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </div>
 
 ### 🔭 I’m working on

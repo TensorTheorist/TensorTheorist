@@ -37,8 +37,7 @@ I love implementing ML and AI functionalities and algorithms and deploying them 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/demo/?user=TensorTheorist&theme=default&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TensorTheorist)](https://git.io/streak-stats)
 ---
 ### :fire: My Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdijkstra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
